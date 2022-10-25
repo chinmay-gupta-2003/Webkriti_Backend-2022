@@ -8,4 +8,4 @@ Steps to set up the Rest server locally-
 
 3. Run `npm run dev` to run this locally (dev mode)
 
-NOTE: In case you are using your own database, don't for to migrate and populate the table schmea. PF `migration.sql` in repo for this purpose.
+NOTE: In case you are using your own database, don't forget to migrate and populate the table schmea. PF `migration.sql` in repo for this purpose.
